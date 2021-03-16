@@ -1,0 +1,31 @@
+
+p {
+	font-family: Arial;
+}
+img {
+	border: 2px solid #54C03F;
+	border-radius: 50%;
+}
+	
+h1,h3 {
+	font-variant: small-caps;
+	border-radius: 5px;
+	color: green;
+}
+	
+body {	
+border: 2px solid #54C03F;
+border: 1px solid grey;
+padding: 3px 5px;
+}
+
+￫ 
+￫ text-decoration: none;
+￫ font-weight: bold;
+￫ 
+￫ border-radius: 50%;
+￫ padding: 3px 5px;
+￫ margin-bottom: 10px;
+￫ background-color: #D1FAD2;
+￫ padding: 10px;
+￫ color: darkgreen;
